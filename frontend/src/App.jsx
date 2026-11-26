@@ -1,6 +1,6 @@
 import axios from "axios";
 import { useEffect } from "react";
-import { useEffect, useMemo, useState } from "react"; import {
+import { useMemo, useState } from "react"; import {
   Search,
   ShoppingBag,
   Menu,
